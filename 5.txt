@@ -1,1 +1,4 @@
 Testing out git stash and how it works
+
+to stash your files use git stash
+to retrieve stashed file use git stash pop
