@@ -1,1 +1,23 @@
 Just Testing!
+
+#################
+git Commands
+#################
+
+git init
+git status
+git add .
+git commit -m "message"
+git remote add origin <repo url>
+git clone <repo url>
+git push origin <branch name>
+git pull 
+git merge
+git stash
+git stash pop
+git log
+git revert <commit id>
+git diff <commit id of version x> <commit id of version y>
+git branch
+git branch <branch name>
+git checkout <branch name>
